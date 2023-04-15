@@ -6,7 +6,6 @@ Flutter Chat App UI Templates is a collection of beautifully designed UI templat
 - Beautifully designed UI templates for chat applications
 -  Customizable components to fit your app's specific needs
 -  Easy-to-use features that enhance user engagement and retention
--  Seamless integration with Firebase for real-time messaging
 -  Cross-platform compatibility for both iOS and Android
 
 ## Getting Started
@@ -16,7 +15,6 @@ Requirements
 
 - Flutter 2.0 or higher
 - Dart 2.12 or higher
-- Firebase account for real-time messaging
 
 ## Installation
 
